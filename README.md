@@ -1,7 +1,7 @@
 # AR-STACK-GAME
- Computer Graphics Lab - Project [SEMESTER IV]
+ CSL402: Computer Graphics Lab - Project [SEMESTER IV]
  
-  - [x] **[COMPUTER GRAPHICS LAB](https://github.com/Amey-Thakur/COMPUTER-GRAPHICS-AND-COMPUTER-GRAPHICS-LAB)**
+  - [x] **CSL402: [COMPUTER GRAPHICS LAB](https://github.com/Amey-Thakur/COMPUTER-GRAPHICS-AND-COMPUTER-GRAPHICS-LAB)**
   
  ## Augmented Reality Stack Builder Game
  
