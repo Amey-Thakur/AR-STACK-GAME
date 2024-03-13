@@ -24,4 +24,4 @@
 
 <p align="center"> <b> 👷 Project Authors: Amey Thakur and Hasan Rizvi (Batch of 2022) <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
