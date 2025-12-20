@@ -47,7 +47,7 @@
   </tr>
   </table>
 
-  *Special thanks to [Hasan Rizvi](https://github.com/rizvihasan) for his collaborative efforts and technical contributions to this project.*
+  *Special thanks to [Hasan Rizvi](https://github.com/rizvihasan) for his meaningful contributions, guidance, and support that helped shape this work.*
 
 </div>
 
