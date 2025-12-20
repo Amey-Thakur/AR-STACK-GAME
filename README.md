@@ -5,7 +5,7 @@
 
   # AR Stack Builder Game
 
-  ### CSL402 · Computer Graphics Lab · Semester IV
+
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
   [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://github.com/Amey-Thakur/AR-STACK-GAME)
