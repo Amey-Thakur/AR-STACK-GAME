@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
+
 
   # AR Stack Builder Game
 
