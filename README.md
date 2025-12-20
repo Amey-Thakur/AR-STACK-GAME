@@ -117,7 +117,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### Acknowledgments
 
-Grateful acknowledgment to **[Hasan Rizvi](https://github.com/rizvihasan)** for his exceptional contribution to this project. Working alongside Hasan was a defining part of this development journey. His deep technical expertise in Unity and ARCore was crucial in transforming a complex concept into a seamless augmented reality experience. Beyond the code, his innovative problem-solving, eye for detail, and collaborative spirit made every challenge surmountable. From optimizing physics interactions to refining the user experience, his dedication played a pivotal role in bringing the AR Stack Builder to life. Thank you, Hasan, for being an outstanding project partner and for your unwavering commitment to excellence.
+Grateful acknowledgment to **[Hasan Rizvi](https://github.com/rizvihasan)** for his exceptional contribution to this project. His technical expertise in Unity and AR development was crucial in bringing this augmented reality experience to life.
 
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project.
 
