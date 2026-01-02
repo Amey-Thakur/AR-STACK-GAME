@@ -1,0 +1,28 @@
+# AR Stack Builder Game - Academic Repository
+# Professional .gitattributes for scholarly archiving
+
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Ensure text and source files use LF on checkout
+*.md text eol=lf
+*.txt text eol=lf
+LICENSE text eol=lf
+
+# Explicitly mark binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.ico binary
+*.bmp binary
+*.tif binary
+*.tiff binary
+
+# Game Development Artifacts
+*.unitypackage binary
+*.apk binary
+
+# Improve diff handling
+*.md text diff=markdown
