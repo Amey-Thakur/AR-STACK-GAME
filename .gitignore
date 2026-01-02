@@ -1,0 +1,62 @@
+# AR Stack Builder Game - Academic Repository
+# Specialized .gitignore for AR/Unity projects and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and IDE configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
+*.code-workspace
+
+# Unity / Build Artifacts
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+MemoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svntmp
+*.bak
+*.sav
+*.old
+*.orig
+
+# Mobile / Android Artifacts
+*.apk
+*.aab
+*.keystore
+!/AR-Stack-Game.apk
+
+# Office Temporary Files
+~$*.doc
+~$*.docx
+~$*.ppt
+~$*.pptx
+~$*.xls
+~$*.xlsx
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z

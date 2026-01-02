@@ -39,7 +39,7 @@
   </a>
   </td>
   <td align="center">
-  <a href="https://github.com/rizvihasan.png">
+  <a href="https://github.com/rizvihasan">
   <img src="https://github.com/rizvihasan.png" width="150px;" alt="Hasan Rizvi"/><br />
   <sub><b>Hasan Rizvi</b></sub>
   </a>
