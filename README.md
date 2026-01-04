@@ -9,7 +9,7 @@
 
   An immersive Augmented Reality stack builder game developed for Android using Google's ARCore SDK and Unity Engine.
 
-  **[Download APK](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true)** • **[Source Code](https://github.com/Amey-Thakur/AR-STACK-GAME)**
+  **[Download APK](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true)** &middot; **[Source Code](https://github.com/Amey-Thakur/AR-STACK-GAME)**
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-  [👥 Authors](#authors) &nbsp;·&nbsp; [📖 Overview](#overview) &nbsp;·&nbsp; [✨ Features](#features) &nbsp;·&nbsp; [🚀 Quick Start](#quick-start) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
+  [Authors](#authors) &middot; [Overview](#overview) &middot; [Features](#features) &middot; [Quick Start](#quick-start) &middot; [License](#license) &middot; [About](#about-this-repository) &middot; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -47,7 +47,7 @@
   </tr>
   </table>
 
-  *Special thanks to [Hasan Rizvi](https://github.com/rizvihasan) for his meaningful contributions, guidance, and support that helped shape this work.*
+  Special thanks to [Hasan Rizvi](https://github.com/rizvihasan) for his meaningful contributions, guidance, and support that helped shape this work.
 
 </div>
 
@@ -72,11 +72,33 @@ The objective is simple yet challenging: build the highest stack possible withou
 | **3D Rendering** | High-quality 3D assets rendered using Unity Engine |
 | **Touch Controls** | Intuitive touch interface for positioning and dropping blocks |
 
-### 🛠️ Tech Stack
+### Tech Stack
 - **Engine**: Unity 3D
 - **AR SDK**: Google ARCore
 - **Language**: C#
 - **Platform**: Android
+
+---
+
+<!-- STRUCTURE -->
+## Project Structure
+
+```
+AR-STACK-GAME/
+│
+├── Source Code/                     # C# Source Files
+│   ├── StackManager.cs              # Game State Controller
+│   ├── CubeSpawner.cs               # Block Spawner
+│   ├── MovingCube.cs                # Physics & Slicing Logic
+│   └── ARPlacementManager.cs        # ARCore Integration
+│
+├── AR-Stack-Game.apk                # Production Android Build
+├── ARStackGame.unitypackage         # Unity Asset Exchange File
+│
+├── LICENSE                          # MIT License
+├── CITATION.cff                     # Citation Metadata
+└── README.md                        # Project Documentation
+```
 
 ---
 
@@ -90,7 +112,7 @@ The objective is simple yet challenging: build the highest stack possible withou
 ### Installation
 1. **Download the APK**: [AR-Stack-Game.apk](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true)
 2. **Install**: Enable "Install from Unknown Sources" if prompted and install the application.
-3. **Play**: Open the app, scan a flat surface, and tap to place your base!
+3. **Play**: Open the app, scan a flat surface, and tap to place your base.
 
 ---
 
@@ -101,7 +123,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
-**Copyright © 2020** [Amey Thakur](https://github.com/Amey-Thakur), [Hasan Rizvi](https://github.com/rizvihasan)
+**Copyright &copy; 2020** [Amey Thakur](https://github.com/Amey-Thakur), [Hasan Rizvi](https://github.com/rizvihasan)
 
 ---
 
@@ -113,7 +135,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+**Connect**: [GitHub](https://github.com/Amey-Thakur) &middot; [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
 ### Acknowledgments
 
@@ -126,11 +148,11 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 <!-- FOOTER -->
 <div align="center">
 
-  **[⬆ Back to Top](#ar-stack-builder-game)** &nbsp;·&nbsp; [👥 Authors](#authors) &nbsp;·&nbsp; [📖 Overview](#overview) &nbsp;·&nbsp; [✨ Features](#features) &nbsp;·&nbsp; [🚀 Quick Start](#quick-start) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
+  **[&#8593; Back to Top](#ar-stack-builder-game)** &nbsp;&middot;&nbsp; [Authors](#authors) &nbsp;&middot;&nbsp; [Overview](#overview) &nbsp;&middot;&nbsp; [Features](#features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [License](#license) &nbsp;&middot;&nbsp; [About](#about-this-repository) &nbsp;&middot;&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
-  **[🧪 Computer Graphics Lab](https://github.com/Amey-Thakur/COMPUTER-GRAPHICS-AND-COMPUTER-GRAPHICS-LAB)** &nbsp;·&nbsp; **[🎮 AR Stack Builder Game](https://github.com/Amey-Thakur/AR-STACK-GAME)**
+  **[&#129514; Computer Graphics Lab](https://github.com/Amey-Thakur/COMPUTER-GRAPHICS-AND-COMPUTER-GRAPHICS-LAB)** &nbsp;&middot;&nbsp; **[&#127303; AR Stack Builder Game](https://github.com/Amey-Thakur/AR-STACK-GAME)**
 
 </div>
 
@@ -138,7 +160,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
 <div align="center">
 
-  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+  ### &#127891; [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
   **Computer Engineering (B.E.) - University of Mumbai**
 
