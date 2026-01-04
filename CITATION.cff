@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this Computer Engineering project or its associated academic materials, please cite them as below."
+authors:
+- family-names: "Thakur"
+  given-names: "Amey"
+  orcid: "https://orcid.org/0000-0001-5644-1575"
+title: "AR-STACK-GAME"
+version: 1.0.0
+date-released: 2020-01-17
+url: "https://github.com/Amey-Thakur/AR-STACK-GAME"
