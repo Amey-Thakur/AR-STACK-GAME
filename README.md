@@ -128,7 +128,7 @@ AR-STACK-GAME/
 
 4. **Gameplay Execution**
    - **Place Foundation**: Tap the detected plane to instantiate the game's base.
-   - **Stack Blocks**: Tap the screen to drop oscillating blocks. Precision is critical—portions of the block extending beyond the previous layer will be sliced, reducing the surface area for subsequent stacks.
+   - **Stack Blocks**: Tap the screen to drop oscillating blocks. Precision is critical; portions of the block extending beyond the previous layer will be sliced, reducing the surface area for subsequent stacks.
 
 ---
 
