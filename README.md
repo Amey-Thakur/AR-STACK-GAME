@@ -107,13 +107,28 @@ AR-STACK-GAME/
 ## Quick Start
 
 ### Prerequisites
-- **Android Device** compatible with Google ARCore (Play Services for AR).
-- **Camera Permission** enabled for the application.
+- **Android Device**: Optimized for devices supporting [Google Play Services for AR](https://developers.google.com/ar/devices) (ARCore).
+- **Camera Access**: Explicit camera permissions are required for real-time environment mapping and plane detection.
+- **Environment**: Operates best in well-lit areas with textured surfaces (e.g., patterned floors or rugs) to assist AR tracking stability.
 
-### Installation
-1. **Download the APK**: [AR-Stack-Game.apk](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true)
-2. **Install**: Enable "Install from Unknown Sources" if prompted and install the application.
-3. **Play**: Open the app, scan a flat surface, and tap to place your base.
+### Installation & Deployment
+
+1. **Download the Artifact**
+   Download the production-ready build directly from the repository:  
+   **[AR-Stack-Game.apk](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true)**
+
+2. **System Configuration**
+   - Locate the `.apk` file in your device's file manager.
+   - Enable **"Install from unknown sources"** in System Settings if prompted.
+   - Proceed with the installation.
+
+3. **Environment Initialization**
+   - Launch the application and grant **Camera Permission**.
+   - **Surface Mapping**: Move the device in a slow, circular motion while pointing at a flat surface. Visual indicators will appear once the ARCore engine successfully identifies a valid horizontal plane.
+
+4. **Gameplay Execution**
+   - **Place Foundation**: Tap the detected plane to instantiate the game's base.
+   - **Stack Blocks**: Tap the screen to drop oscillating blocks. Precision is critical—portions of the block extending beyond the previous layer will be sliced, reducing the surface area for subsequent stacks.
 
 ---
 
