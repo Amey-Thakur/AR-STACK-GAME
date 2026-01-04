@@ -2,10 +2,10 @@
 
   # AR Stack Builder Game
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
-  [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://github.com/Amey-Thakur/AR-STACK-GAME)
-  [![Technology](https://img.shields.io/badge/Technology-Unity%20%7C%20ARCore-orange.svg)](https://github.com/Amey-Thakur/AR-STACK-GAME)
-  [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Hasan%20Rizvi-blue.svg)](https://github.com/Amey-Thakur/AR-STACK-GAME)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
+  [![Platform](https://img.shields.io/badge/Platform-Android-green)](https://github.com/Amey-Thakur/AR-STACK-GAME)
+  [![Technology](https://img.shields.io/badge/Technology-Unity%20%7C%20ARCore-orange)](https://github.com/Amey-Thakur/AR-STACK-GAME)
+  [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Hasan%20Rizvi-blue)](https://github.com/Amey-Thakur/AR-STACK-GAME)
 
   An immersive Augmented Reality stack builder game developed for Android using Google's ARCore SDK and Unity Engine.
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &middot; [Overview](#overview) &middot; [Features](#features) &middot; [Quick Start](#quick-start) &middot; [License](#license) &middot; [About](#about-this-repository) &middot; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;&middot;&nbsp; [Overview](#overview) &nbsp;&middot;&nbsp; [Features](#features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [License](#license) &nbsp;&middot;&nbsp; [About](#about-this-repository) &nbsp;&middot;&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
