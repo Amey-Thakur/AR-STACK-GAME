@@ -55,4 +55,4 @@ The application follows a strict Singleton pattern for structural stability.
 - **Tracking**: 6-DOF (Degrees of Freedom) tracking required for depth perception.
 
 ---
-*Technical Specification | Computer Engineering Archival Project | Version 1.0*
+*Technical Specification | Computer Engineering Project | Version 1.0*
