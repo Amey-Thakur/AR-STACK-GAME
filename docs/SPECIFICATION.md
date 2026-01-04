@@ -55,5 +55,4 @@ The application follows a strict Singleton pattern for structural stability.
 - **Tracking**: 6-DOF (Degrees of Freedom) tracking required for depth perception.
 
 ---
-
-*This document serves as the formal technical authority for the AR-STACK-GAME archival project.*
+*Technical Specification | Computer Engineering Archival Project | Version 1.0*
