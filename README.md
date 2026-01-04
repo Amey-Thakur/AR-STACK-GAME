@@ -10,7 +10,7 @@
 
   An immersive Augmented Reality stack builder game developed for Android using Google's ARCore SDK and Unity Engine.
 
-  **[Download APK](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true)** &nbsp;&middot;&nbsp; **[Source Code](Source%20Code/)**
+  **[Download APK](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true)** &nbsp;&middot;&nbsp; **[Source Code](Source%20Code/)** &nbsp;&middot;&nbsp; **[Technical Specification](docs/SPECIFICATION.md)**
 
 </div>
 
