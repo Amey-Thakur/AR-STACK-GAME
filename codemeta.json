@@ -1,0 +1,39 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "AR-STACK-GAME",
+    "description": "An immersive Augmented Reality stack builder game developed for Android using Google's ARCore SDK and Unity Engine. This project serves as a scholarly archive artifact for Computer Engineering education.",
+    "identifier": "AR-STACK-GAME",
+    "license": "https://spdx.org/licenses/MIT.html",
+    "programmingLanguage": [
+        "C#"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateReleased": "2020-08-12",
+    "codeRepository": "https://github.com/Amey-Thakur/AR-STACK-GAME",
+    "developmentStatus": "archived",
+    "runtimePlatform": [
+        "Android",
+        "Unity 2019.4"
+    ],
+    "applicationCategory": "Augmented Reality Game",
+    "keywords": [
+        "AR",
+        "ARCore",
+        "Unity",
+        "C#",
+        "Computer Engineering",
+        "Archival"
+    ]
+}
