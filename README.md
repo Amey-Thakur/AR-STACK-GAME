@@ -136,13 +136,15 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) &middot; [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+This repository features the AR Stack Builder Game, an immersive augmented reality application developed as a 4th-semester mini-project for the Computer Graphics course. It showcases the practical integration of Unity's 3D rendering capabilities with Google's ARCore SDK for real-world plane detection and physics-based interactions.
+
+**Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
 ### Acknowledgments
 
-Grateful acknowledgment to **[Hasan Rizvi](https://github.com/rizvihasan)** for his exceptional contribution to this project. His technical expertise in Unity and AR development was crucial in bringing this augmented reality experience to life.
+Grateful acknowledgment to **[Hasan Rizvi](https://github.com/rizvihasan)** for his pivotal role and collaborative excellence during the development of this repository. His technical expertise, innovative contributions to AR integration, and dedicated commitment to software quality were fundamental in achieving the project's immersive and functional objectives. This archival record serves as a testament to his scholarly partnership and significant impact on the final implementation.
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project.
+Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
 
 ---
 
