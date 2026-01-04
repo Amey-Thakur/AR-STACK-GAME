@@ -96,13 +96,13 @@ AR-STACK-GAME/
 ├── AR-Stack-Game.apk                # Production Android Build
 ├── ARStackGame.unitypackage         # Unity Asset Exchange File
 │
-├── docs/                            # Archival Documentation
+├── docs/                            # Project Documentation
 │   └── SPECIFICATION.md             # Formal Technical Specification
 │
 ├── LICENSE                          # MIT License
 ├── CITATION.cff                     # Citation Metadata
 ├── SECURITY.md                      # Security Policy & Posture
-├── codemeta.json                    # Archival Metadata (JSON-LD)
+├── codemeta.json                    # Project Metadata (JSON-LD)
 └── README.md                        # Project Documentation
 ```
 
@@ -162,7 +162,7 @@ This project features the AR Stack Builder Game, an immersive augmented reality 
 
 ### Acknowledgments
 
-Grateful acknowledgment to **[Hasan Rizvi](https://github.com/rizvihasan)** for his pivotal role and collaborative excellence during the development of this project. His technical expertise, innovative contributions to AR integration, and dedicated commitment to software quality were fundamental in achieving the project's immersive and functional objectives. This archival record serves as a testament to his scholarly partnership and significant impact on the final implementation.
+Grateful acknowledgment to **[Hasan Rizvi](https://github.com/rizvihasan)** for his pivotal role and collaborative excellence during the development of this project. His technical expertise, innovative contributions to AR integration, and dedicated commitment to software quality were fundamental in achieving the project's immersive and functional objectives. This technical record serves as a testament to his scholarly partnership and significant impact on the final implementation.
 
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
 

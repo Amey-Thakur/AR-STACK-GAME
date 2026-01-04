@@ -1,12 +1,12 @@
 # Security Policy
 
-## Archival Status
+## Maintenance Status
 
-This repository is part of a curated Computer Engineering project archive and is maintained in a finalized and stable state. The project is preserved as a complete and authoritative record, with its scope and contents intentionally fixed to ensure long-term academic and professional reference.
+This repository is part of a curated Computer Engineering project collection and is maintained in a finalized and stable state. The project is preserved as a complete and authoritative record, with its scope and contents intentionally fixed to ensure long-term academic and professional reference.
 
 ## Supported Versions
 
-As an archived project, only the version listed below is authoritative:
+As a finalized project, only the version listed below is authoritative:
 
 | Version | Supported |
 | ------- | --------- |
@@ -32,10 +32,10 @@ This project is implemented using the Unity Engine and the Google ARCore SDK, as
 - **Execution Environment**: Execution occurs on Android-compatible physical devices supporting Google Play Services for AR.
 - **Scope Limitation**: This policy applies exclusively to the source code and academic materials contained within this repository and does not extend to external libraries, Google ARCore services, Unity runtime environments, or platform-level security guarantees.
 
-## Archival Integrity Statement
+## Technical Integrity Statement
 
 This repository is preserved as a fixed academic and engineering artifact. Security-related submissions are recorded for documentation and contextual reference and do not imply active monitoring, response obligations, or subsequent modification of the repository.
 
 ---
 
-*This document defines the security posture of an archived Computer Engineering project.*
+*This document defines the security posture of a finalized Computer Engineering project.*

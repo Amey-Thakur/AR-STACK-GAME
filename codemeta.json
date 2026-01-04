@@ -2,7 +2,7 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "name": "AR-STACK-GAME",
-    "description": "An immersive Augmented Reality stack builder game developed for Android using Google's ARCore SDK and Unity Engine. This project serves as a scholarly archive artifact for Computer Engineering education.",
+    "description": "An immersive Augmented Reality stack builder game developed for Android using Google's ARCore SDK and Unity Engine. This project serves as a scholarly collection artifact for Computer Engineering education.",
     "identifier": "AR-STACK-GAME",
     "license": "https://spdx.org/licenses/MIT.html",
     "programmingLanguage": [
@@ -34,6 +34,6 @@
         "Unity",
         "C#",
         "Computer Engineering",
-        "Archival"
+        "Standardized"
     ]
 }
