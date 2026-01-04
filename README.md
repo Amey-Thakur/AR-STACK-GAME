@@ -158,7 +158,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 This project features the AR Stack Builder Game, an immersive augmented reality application developed as a 4th-semester mini-project for the Computer Graphics course. It showcases the practical integration of Unity's 3D rendering capabilities with Google's ARCore SDK for real-world plane detection and physics-based interactions.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
 ### Acknowledgments
 
