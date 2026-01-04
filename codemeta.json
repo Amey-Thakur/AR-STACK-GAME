@@ -22,7 +22,7 @@
     ],
     "dateReleased": "2020-08-12",
     "codeRepository": "https://github.com/Amey-Thakur/AR-STACK-GAME",
-    "developmentStatus": "archived",
+    "developmentStatus": "complete",
     "runtimePlatform": [
         "Android",
         "Unity 2019.4"
