@@ -177,7 +177,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
   <br>
 
-  🔬 **[Computer Graphics Lab](https://github.com/Amey-Thakur/COMPUTER-GRAPHICS-AND-COMPUTER-GRAPHICS-LAB)** &nbsp;·&nbsp; 🎮 **[Game Repository](https://github.com/Amey-Thakur/AR-STACK-GAME)**
+  🔬 **[Computer Graphics Lab](https://github.com/Amey-Thakur/COMPUTER-GRAPHICS-AND-COMPUTER-GRAPHICS-LAB)** &nbsp;·&nbsp; 🎮 **[AR-STACK-GAME](https://github.com/Amey-Thakur/AR-STACK-GAME)**
 
 </div>
 
