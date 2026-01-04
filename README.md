@@ -7,9 +7,11 @@
   [![Technology](https://img.shields.io/badge/Technology-Unity%20%7C%20ARCore-blue.svg)](https://github.com/Amey-Thakur/AR-STACK-GAME)
   [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
-  An immersive Augmented Reality stack builder game developed for Android using Google's ARCore SDK and Unity Engine.
+  <br>
 
   **[Download APK](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true)** &middot; **[Source Code](https://github.com/Amey-Thakur/AR-STACK-GAME)**
+
+  <br>
 
 </div>
 
