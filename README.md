@@ -96,8 +96,13 @@ AR-STACK-GAME/
 ├── AR-Stack-Game.apk                # Production Android Build
 ├── ARStackGame.unitypackage         # Unity Asset Exchange File
 │
+├── docs/                            # Archival Documentation
+│   └── SPECIFICATION.md             # Formal Technical Specification
+│
 ├── LICENSE                          # MIT License
 ├── CITATION.cff                     # Citation Metadata
+├── SECURITY.md                      # Security Policy & Posture
+├── codemeta.json                    # Archival Metadata (JSON-LD)
 └── README.md                        # Project Documentation
 ```
 
