@@ -10,7 +10,7 @@
 
   An immersive Augmented Reality stack builder game developed for Android using Google's ARCore SDK and Unity Engine.
 
-  **[Download APK](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true)** &nbsp;&middot;&nbsp; **[Source Code](https://github.com/Amey-Thakur/AR-STACK-GAME)**
+  **[Download APK](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true)** &nbsp;&middot;&nbsp; **[Source Code](Source%20Code/)**
 
 </div>
 
@@ -149,11 +149,11 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 <!-- FOOTER -->
 <div align="center">
 
-  **[&#8593; Back to Top](#ar-stack-builder-game)** &nbsp;&middot;&nbsp; [Authors](#authors) &nbsp;&middot;&nbsp; [Overview](#overview) &nbsp;&middot;&nbsp; [Features](#features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [License](#license) &nbsp;&middot;&nbsp; [About](#about-this-repository) &nbsp;&middot;&nbsp; [Acknowledgments](#acknowledgments)
+  **[↑ Back to Top](#ar-stack-builder-game)** &nbsp;&middot;&nbsp; [Authors](#authors) &nbsp;&middot;&nbsp; [Overview](#overview) &nbsp;&middot;&nbsp; [Features](#features) &nbsp;&middot;&nbsp; [Quick Start](#quick-start) &nbsp;&middot;&nbsp; [License](#license) &nbsp;&middot;&nbsp; [About](#about-this-repository) &nbsp;&middot;&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
-  **[&#129514; Computer Graphics Lab](https://github.com/Amey-Thakur/COMPUTER-GRAPHICS-AND-COMPUTER-GRAPHICS-LAB)** &nbsp;&middot;&nbsp; **[&#127303; AR Stack Builder Game](https://github.com/Amey-Thakur/AR-STACK-GAME)**
+  🔬 **[Computer Graphics Lab](https://github.com/Amey-Thakur/COMPUTER-GRAPHICS-AND-COMPUTER-GRAPHICS-LAB)** &nbsp;&middot;&nbsp; 🎮 **[Game Repository](https://github.com/Amey-Thakur/AR-STACK-GAME)**
 
 </div>
 
@@ -161,7 +161,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
 <div align="center">
 
-  ### &#127891; [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
   **Computer Engineering (B.E.) - University of Mumbai**
 
