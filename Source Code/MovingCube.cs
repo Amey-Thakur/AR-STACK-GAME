@@ -1,7 +1,7 @@
 /**
  * AR-STACK-GAME: A Mobile Augmented Reality Case Study in 3D Stacking and Physics
  * 
- * This source file is part of a curated Computer Engineering project archive.
+ * This source file is part of a curated Computer Engineering project collection.
  * It is preserved as a final technical artifact representing the application 
  * of ARCore and Unity Engine in mobile gaming.
  * 
