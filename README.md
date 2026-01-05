@@ -87,23 +87,24 @@ The objective is simple yet challenging: build the highest stack possible withou
 ```
 AR-STACK-GAME/
 │
-├── Source Code/                     # C# Source Files
-│   ├── StackManager.cs              # Game State Controller
-│   ├── CubeSpawner.cs               # Block Spawner
-│   ├── MovingCube.cs                # Physics & Slicing Logic
-│   └── ARPlacementManager.cs        # ARCore Integration
+├── docs/                                # Formal Documentation
+│   └── SPECIFICATION.md                 # Technical Architecture & Spec
 │
-├── AR-Stack-Game.apk                # Production Android Build
-├── ARStackGame.unitypackage         # Unity Asset Exchange File
+├── Source Code/                         # C# Source Files
+│   ├── ARPlacementManager.cs            # ARCore Plane Detection & Placement
+│   ├── CubeSpawner.cs                   # Block Instantiation & Spawning
+│   ├── MovingCube.cs                    # Physics, Movement & Slicing Logic
+│   └── StackManager.cs                  # Game State Controller & Scoring
 │
-├── docs/                            # Project Documentation
-│   └── SPECIFICATION.md             # Formal Technical Specification
-│
-├── LICENSE                          # MIT License
-├── CITATION.cff                     # Citation Metadata
-├── SECURITY.md                      # Security Policy & Posture
-├── codemeta.json                    # Project Metadata (JSON-LD)
-└── README.md                        # Project Documentation
+├── .gitattributes                       # Git Line Ending Configuration
+├── .gitignore                           # Git Ignore Rules
+├── AR-Stack-Game.apk                    # Production Android Build (22.8 MB)
+├── ARStackGame.unitypackage             # Unity Asset Exchange Package (3.6 MB)
+├── CITATION.cff                         # Citation Metadata
+├── codemeta.json                        # Project Metadata (JSON-LD)
+├── LICENSE                              # MIT License
+├── README.md                            # Project Documentation
+└── SECURITY.md                          # Security Policy & Posture
 ```
 
 ---
