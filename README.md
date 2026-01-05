@@ -146,7 +146,7 @@ This repository and all linked academic content are made available under the **M
 > [!NOTE]
 > **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
-Copyright © 2019 Amey Thakur, Mega Satish
+Copyright © 2020 Amey Thakur, Hasan Rizvi
 
 ---
 
