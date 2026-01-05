@@ -138,6 +138,24 @@ AR-STACK-GAME/
 
 ---
 
+<!-- =========================================================================================
+                                     USAGE SECTION
+     ========================================================================================= -->
+## Usage Guidelines
+
+This repository is openly shared to support learning and knowledge exchange across the academic community.
+
+**For Students**  
+Use this mini-project as a reference for understanding Augmented Reality (AR) implementation, Unity physics, and mobile game development. The source code is documented to support self-paced learning and exploration of real-time environmental mapping.
+
+**For Educators**  
+This project may serve as a practical example or supplementary teaching resource for Computer Graphics courses (`CSC404` / `CSL402`). Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and organization provide insights into academic project curation and educational software structuring.
+
+---
+
 <!-- LICENSE -->
 ## License
 
