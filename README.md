@@ -121,7 +121,7 @@ AR-STACK-GAME/
 
 1. **Download the Artifact**
    Download the production-ready build directly from the repository:  
-   **[AR-Stack-Game.apk](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true)**
+   [AR-Stack-Game.apk](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true)
 
 2. **System Configuration**
    - Locate the `.apk` file in your device's file manager.

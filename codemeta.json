@@ -1,7 +1,7 @@
 {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
-    "name": "AR-STACK-GAME",
+    "name": "AR Stack Builder Game",
     "description": "An immersive Augmented Reality stack builder game developed for Android using Google's ARCore SDK and Unity Engine. This project serves as a scholarly collection artifact for Computer Engineering education.",
     "identifier": "AR-STACK-GAME",
     "license": "https://spdx.org/licenses/MIT.html",
@@ -14,6 +14,15 @@
             "givenName": "Amey",
             "familyName": "Thakur",
             "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Hasan",
+            "familyName": "Rizvi",
             "affiliation": {
                 "@type": "Organization",
                 "name": "Terna Engineering College"
@@ -34,6 +43,6 @@
         "Unity",
         "C#",
         "Computer Engineering",
-        "Standardized"
+        "Mobile Gaming"
     ]
 }
