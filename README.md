@@ -63,7 +63,7 @@ The objective is simple yet challenging: build the highest stack possible withou
 > [!TIP]
 > **Technical Customization**
 >
-> To analyze game difficulty or physics behavior, researchers can modify the `moveSpeed` variable in `MovingCube.cs` (Line 28). Incremental adjustments to this parameter allow for the evaluation of user reaction times and precision in augmented environments.
+> To analyze game difficulty or physics behavior, the `moveSpeed` variable in `MovingCube.cs` (Line 28) can be modified. Incremental adjustments to this parameter allow for the evaluation of user reaction times and precision in augmented environments.
 
 ---
 
