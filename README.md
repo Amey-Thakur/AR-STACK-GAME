@@ -1,6 +1,5 @@
 <div align="center">
 
-
   # AR Stack Builder Game
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
