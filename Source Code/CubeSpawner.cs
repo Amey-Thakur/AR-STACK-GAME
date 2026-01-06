@@ -5,7 +5,7 @@
  * It is preserved as a final technical artifact representing the application 
  * of ARCore and Unity Engine in mobile gaming.
  * 
- * AUTHOR: Amey Thakur (https://github.com/Amey-Thakur)
+ * AUTHORS: Amey Thakur (https://github.com/Amey-Thakur) & Hasan Rizvi (https://github.com/rizvihasan)
  * REPOSITORY: https://github.com/Amey-Thakur/AR-STACK-GAME
  * ORIGINAL RELEASE: August 12, 2020
  * 
