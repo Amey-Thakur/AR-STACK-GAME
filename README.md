@@ -60,11 +60,10 @@
 The **AR Stack Builder Game** is a Computer Graphics Mini-Project designed to explore the capabilities of Augmented Reality (AR) in mobile gaming. By leveraging **Google's ARCore** for plane detection and tracking, and **Unity** for 3D rendering and physics, this game allows players to stack 3D blocks in their real-world environment.
 
 The objective is simple yet challenging: build the highest stack possible without letting it topple over, testing both the player's precision and the stability of the virtual structure in the physical world.
-63: 
-64: > [!TIP]
-65: > **Technical Customization**
-66: >
-67: > To analyze game difficulty or physics behavior, researchers can modify the `moveSpeed` variable in `MovingCube.cs` (Line 28). Incremental adjustments to this parameter allow for the evaluation of user reaction times and precision in augmented environments.
+> [!TIP]
+> **Technical Customization**
+>
+> To analyze game difficulty or physics behavior, researchers can modify the `moveSpeed` variable in `MovingCube.cs` (Line 28). Incremental adjustments to this parameter allow for the evaluation of user reaction times and precision in augmented environments.
 
 ---
 
@@ -121,11 +120,11 @@ AR-STACK-GAME/
 - **Android Device**: Optimized for devices supporting [Google Play Services for AR](https://developers.google.com/ar/devices) (ARCore).
 - **Camera Access**: Explicit camera permissions are required for real-time environment mapping and plane detection.
 - **Environment**: Operates best in well-lit areas with textured surfaces (e.g., patterned floors or rugs) to assist AR tracking stability.
-119: 
-120: > [!WARNING]
-121: > **Hardware & Environmental Requirements**
-122: >
-123: > This application requires an **ARCore-compatible** Android device. Successful environmental mapping is highly dependent on ambient lighting and surface texture; low-light conditions or reflective/featureless surfaces (like plain white tables) will result in tracking failure or virtual drift.
+
+> [!WARNING]
+> **Hardware & Environmental Requirements**
+>
+> This application requires an **ARCore-compatible** Android device. Successful environmental mapping is highly dependent on ambient lighting and surface texture; low-light conditions or reflective/featureless surfaces (like plain white tables) will result in tracking failure or virtual drift.
 
 ### Installation & Deployment
 
