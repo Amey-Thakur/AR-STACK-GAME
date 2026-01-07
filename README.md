@@ -46,6 +46,9 @@
   <a href="https://github.com/rizvihasan">
   <img src="https://github.com/rizvihasan.png" width="180px;" alt="Hasan Rizvi"/><br />
   <sub><b>Hasan Rizvi</b></sub>
+  </a><br /><br />
+  <a href="https://github.com/rizvihasan">
+  <img src="https://img.shields.io/badge/GitHub-rizvihasan-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   </td>
   </tr>
