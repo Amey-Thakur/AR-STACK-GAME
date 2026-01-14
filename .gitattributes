@@ -31,4 +31,3 @@ LICENSE text eol=lf
 
 # Improve diff handling
 *.md text diff=markdown
- 
