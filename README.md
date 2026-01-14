@@ -31,32 +31,14 @@
 
   **Terna Engineering College | Computer Engineering | Batch of 2022**
 
-  <table>
-  <tr>
-  <td align="center">
-  <a href="https://github.com/Amey-Thakur">
-  <img src="https://github.com/Amey-Thakur.png" width="180px;" alt="Amey Thakur"/><br />
-  <sub><b>Amey Thakur</b></sub>
-  </a><br /><br />
-  <a href="https://orcid.org/0000-0001-5644-1575">
-  <img src="https://img.shields.io/badge/ORCID-0000--0001--5644--1575-brightgreen" alt="ORCID"/>
-  </a>
-  </td>
-  <td align="center">
-  <a href="https://github.com/rizvihasan">
-  <img src="https://github.com/rizvihasan.png" width="180px;" alt="Hasan Rizvi"/><br />
-  <sub><b>Hasan Rizvi</b></sub>
-  </a><br /><br />
-  <a href="https://github.com/rizvihasan">
-  <img src="https://img.shields.io/badge/GitHub-rizvihasan-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  </td>
-  </tr>
-  </table>
-
-  *Special thanks to [Hasan Rizvi](https://github.com/rizvihasan) for his meaningful contributions, guidance, and support that helped shape this work.*
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/rizvihasan"><img src="https://github.com/rizvihasan.png" width="150" height="150" alt="Hasan Rizvi"></a><br>[**Hasan Rizvi**](https://github.com/rizvihasan)<br><br>[![GitHub](https://img.shields.io/badge/GitHub-rizvihasan-181717?style=flat&logo=github&logoColor=white)](https://github.com/rizvihasan) |
+| :---: | :---: |
 
 </div>
+
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to **[Hasan Rizvi](https://github.com/rizvihasan)** for his meaningful contributions, guidance, and support that helped shape this work.*
 
 ---
 
@@ -66,9 +48,23 @@
 The **AR Stack Builder Game** is a Computer Graphics Mini-Project designed to explore the capabilities of Augmented Reality (AR) in mobile gaming. By leveraging **Google's ARCore** for plane detection and tracking, and **Unity** for 3D rendering and physics, this game allows players to stack 3D blocks in their real-world environment.
 
 The objective is simple yet challenging: build the highest stack possible without letting it topple over, testing both the player's precision and the stability of the virtual structure in the physical world.
+
+> [!NOTE]
+> **Research Impact**: The development and architectural overview of this project are part of a curated Computer Engineering collection on ResearchGate.
+> - [ResearchGate Profile](https://www.researchgate.net/profile/Amey-Thakur)
+
+### Resources
+
+| # | Resource | Description |
+|---|---|---|
+| 1 | [AR Stack Builder APK](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true) | Production Android build (APK) |
+| 2 | [Unity Package](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/ARStackGame.unitypackage?raw=true) | Unity Asset Exchange Package |
+| 3 | [Technical Specification](docs/SPECIFICATION.md) | Technical architecture and logic specification |
+| 4 | [Source Code](Source%20Code/) | Core C# implementation files |
+| 5 | [CG Laboratory](https://github.com/Amey-Thakur/COMPUTER-GRAPHICS-AND-COMPUTER-GRAPHICS-LAB) | Academic repository for Computer Graphics |
+
 > [!TIP]
 > **Technical Customization**
->
 > To analyze game difficulty or physics behavior, the `moveSpeed` variable in `MovingCube.cs` (Line 28) can be modified. Incremental adjustments to this parameter allow for the evaluation of user reaction times and precision in augmented environments.
 
 ---
@@ -94,26 +90,26 @@ The objective is simple yet challenging: build the highest stack possible withou
 <!-- STRUCTURE -->
 ## Project Structure
 
-```
+```bash
 AR-STACK-GAME/
 │
 ├── docs/                                # Formal Documentation
-│   └── SPECIFICATION.md                 # Technical Architecture & Spec
+│   └── SPECIFICATION.md                 # Technical Architecture & Specification
 │
-├── Source Code/                         # C# Source Files
-│   ├── ARPlacementManager.cs            # ARCore Plane Detection & Placement
-│   ├── CubeSpawner.cs                   # Block Instantiation & Spawning
-│   ├── MovingCube.cs                    # Physics, Movement & Slicing Logic
-│   └── StackManager.cs                  # Game State Controller & Scoring
+├── Source Code/                         # Core Implementation
+│   ├── ARPlacementManager.cs            # ARCore Plane Detection
+│   ├── CubeSpawner.cs                   # Block Instantiation
+│   ├── MovingCube.cs                    # Physics & Slicing Logic
+│   └── StackManager.cs                  # Game State Controller
 │
-├── .gitattributes                       # Git Line Ending Configuration
+├── .gitattributes                       # Git Configuration
 ├── .gitignore                           # Git Ignore Rules
-├── AR-Stack-Game.apk                    # Production Android Build (22.8 MB)
-├── ARStackGame.unitypackage             # Unity Asset Exchange Package (3.6 MB)
+├── AR-Stack-Game.apk                    # Android Production Build
+├── ARStackGame.unitypackage             # Unity Asset Package
 ├── CITATION.cff                         # Citation Metadata
 ├── codemeta.json                        # Project Metadata (JSON-LD)
 ├── LICENSE                              # MIT License
-├── README.md                            # Project Documentation
+├── README.md                            # Main Documentation
 └── SECURITY.md                          # Security Policy & Posture
 ```
 
@@ -134,7 +130,7 @@ AR-STACK-GAME/
 
 ### Installation & Deployment
 
-1. **Download the Artifact**
+1. **Download the Project**
    Download the production-ready build directly from the repository:  
    [AR-Stack-Game.apk](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true)
 
@@ -193,13 +189,15 @@ Copyright © 2020 Amey Thakur, Hasan Rizvi
 
 This project features the AR Stack Builder Game, an immersive augmented reality application developed as a 4th-semester mini-project for the Computer Graphics course. It showcases the practical integration of Unity's 3D rendering capabilities with Google's ARCore SDK for real-world plane detection and physics-based interactions.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
+**Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
-Grateful acknowledgment to **[Hasan Rizvi](https://github.com/rizvihasan)** for his pivotal role and collaborative excellence during the development of this project. His technical expertise, innovative contributions to AR integration, and dedicated commitment to software quality were fundamental in achieving the project's immersive and functional objectives. This technical record serves as a testament to his scholarly partnership and significant impact on the final implementation.
+Grateful acknowledgment to [**Hasan Rizvi**](https://github.com/rizvihasan) for his exceptional collaboration and innovative contributions during the development of this project. His technical expertise in ARCore integration, physics simulation, and commitment to software quality were instrumental in achieving the project's immersive objectives. Learning alongside him was a transformative experience; his thoughtful approach to problem-solving and steady encouragement turned complex challenges into meaningful learning moments. This work reflects the growth and insights gained from our side-by-side academic journey. Thank you, Hasan, for everything you shared and taught along the way.
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Computer Graphics. Their expertise in real-time rendering and spatial mapping helped shape the technical foundation of this project.
+
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning endeavor.
 
 ---
 
@@ -220,7 +218,9 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
 <div align="center">
 
-  ### Presented as part of the 4th Semester Mini-Project @ Terna Engineering College
+  #### Presented as part of the 4th Semester Mini-Project @ Terna Engineering College
+
+  ---
 
   ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
