@@ -90,4 +90,3 @@ namespace ARStackGame.AR
         }
     }
 }
- 

@@ -56,4 +56,3 @@ The application follows a strict Singleton pattern for structural stability.
 
 ---
 *Technical Specification | Computer Engineering Project | Version 1.0*
- 
