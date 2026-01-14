@@ -90,27 +90,27 @@ The objective is simple yet challenging: build the highest stack possible withou
 <!-- STRUCTURE -->
 ## Project Structure
 
-```bash
+```python
 AR-STACK-GAME/
 │
-├── docs/                                # Formal Documentation
-│   └── SPECIFICATION.md                 # Technical Architecture & Specification
+├── docs/                                    # Formal Documentation
+│   └── SPECIFICATION.md                     # Technical Architecture & Specification
 │
-├── Source Code/                         # Core Implementation
-│   ├── ARPlacementManager.cs            # ARCore Plane Detection
-│   ├── CubeSpawner.cs                   # Block Instantiation
-│   ├── MovingCube.cs                    # Physics & Slicing Logic
-│   └── StackManager.cs                  # Game State Controller
+├── Source Code/                             # Core Implementation
+│   ├── ARPlacementManager.cs                # ARCore Plane Detection
+│   ├── CubeSpawner.cs                       # Block Instantiation
+│   ├── MovingCube.cs                        # Physics & Slicing Logic
+│   └── StackManager.cs                      # Game State Controller
 │
-├── .gitattributes                       # Git Configuration
-├── .gitignore                           # Git Ignore Rules
-├── AR-Stack-Game.apk                    # Android Production Build
-├── ARStackGame.unitypackage             # Unity Asset Package
-├── CITATION.cff                         # Citation Metadata
-├── codemeta.json                        # Project Metadata (JSON-LD)
-├── LICENSE                              # MIT License
-├── README.md                            # Main Documentation
-└── SECURITY.md                          # Security Policy & Posture
+├── .gitattributes                           # Git Configuration
+├── .gitignore                               # Git Ignore Rules
+├── AR-Stack-Game.apk                        # Android Production Build
+├── ARStackGame.unitypackage                 # Unity Asset Package
+├── CITATION.cff                             # Citation Metadata
+├── codemeta.json                            # Project Metadata (JSON-LD)
+├── LICENSE                                  # MIT License
+├── README.md                                # Main Documentation
+└── SECURITY.md                              # Security Policy & Posture
 ```
 
 ---
