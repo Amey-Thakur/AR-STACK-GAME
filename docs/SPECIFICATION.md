@@ -1,8 +1,8 @@
-# Technical Specification: AR Stack Builder Game
+# Technical Specification: AR Stack Game
 
 ## Architectural Overview
 
-The **AR Stack Builder Game** is a mobile augmented reality application developed using the **Unity 3D Engine** and **AR Foundation** (specifically targeting Google's **ARCore** SDK). The application demonstrates the integration of real-world spatial mapping with virtual physics-based interactions.
+The **AR Stack Game** is a mobile augmented reality application developed using the **Unity 3D Engine** and **AR Foundation** (specifically targeting Google's **ARCore** SDK). The application demonstrates the integration of real-world spatial mapping with virtual physics-based interactions.
 
 ### Component Diagram
 

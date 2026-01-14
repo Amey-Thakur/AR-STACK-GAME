@@ -6,7 +6,12 @@
 
 # Ensure text and source files use LF on checkout
 *.md text eol=lf
+*.cs text eol=lf
 *.txt text eol=lf
+*.cff text eol=lf
+*.json text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
 LICENSE text eol=lf
 
 # Explicitly mark binary files
