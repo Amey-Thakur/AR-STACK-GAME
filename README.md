@@ -1,4 +1,3 @@
-
 <div align="center">
 
   # AR Stack Builder Game
