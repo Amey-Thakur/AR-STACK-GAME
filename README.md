@@ -148,9 +148,11 @@ AR-STACK-GAME/
    - **Stack Blocks**: Tap the screen to drop oscillating blocks. Precision is critical; portions of the block extending beyond the previous layer will be sliced, reducing the surface area for subsequent stacks.
 
 > [!TIP]
-> **Enhancing AR Stability & Performance**
+> **Production-Ready AR Game Deployment**
 >
-> To achieve optimal tracking precision and minimize virtual drift, ensure you are in a well-lit environment with distinct surface textures. If the virtual stack appears unstable during initialization, slowly move your device in a circular motion to assist ARCore in recalibrating the environment. You can [**Download the AR Stack Game APK here**](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true) to begin building your augmented masterpiece.
+> Experience high-fidelity Augmented Reality physics and real-time environment mapping by deploying the optimized production build directly to your ARCore-compatible Android device. Ensure optimal tracking by operating in well-lit environments with distinct surface textures.
+>
+> [**Download AR Stack Game APK**](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true)
 
 ---
 
