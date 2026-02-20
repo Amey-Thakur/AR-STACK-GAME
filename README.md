@@ -147,6 +147,11 @@ AR-STACK-GAME/
    - **Place Foundation**: Tap the detected plane to instantiate the game's base.
    - **Stack Blocks**: Tap the screen to drop oscillating blocks. Precision is critical; portions of the block extending beyond the previous layer will be sliced, reducing the surface area for subsequent stacks.
 
+> [!TIP]
+> **Enhancing AR Stability & Performance**
+>
+> To achieve optimal tracking precision and minimize virtual drift, ensure you are in a well-lit environment with distinct surface textures. If the virtual stack appears unstable during initialization, slowly move your device in a circular motion to assist ARCore in recalibrating the environment. You can [**Download the AR Stack Game APK here**](https://github.com/Amey-Thakur/AR-STACK-GAME/blob/main/AR-Stack-Game.apk?raw=true) to begin building your augmented masterpiece.
+
 ---
 
 <!-- =========================================================================================
