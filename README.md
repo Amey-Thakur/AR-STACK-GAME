@@ -2,9 +2,9 @@
 
   # AR Stack Builder Game
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-6E7681)](LICENSE)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-2EA043)
-  [![Platform](https://img.shields.io/badge/Platform-Android-00838F)](https://github.com/Amey-Thakur/AR-STACK-GAME)
+  [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84)](https://github.com/Amey-Thakur/AR-STACK-GAME)
   [![Technology](https://img.shields.io/badge/Technology-Unity%20%7C%20ARCore-8250DF)](https://github.com/Amey-Thakur/AR-STACK-GAME)
   [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Hasan%20Rizvi-0969DA)](https://github.com/Amey-Thakur/AR-STACK-GAME)
 
