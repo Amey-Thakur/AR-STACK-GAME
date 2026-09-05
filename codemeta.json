@@ -29,8 +29,10 @@
             }
         }
     ],
+    "dateCreated": "2022-02-06",
     "dateReleased": "2020-08-12",
     "codeRepository": "https://github.com/Amey-Thakur/AR-STACK-GAME",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
     "developmentStatus": "complete",
     "runtimePlatform": [
         "Android",
@@ -43,6 +45,33 @@
         "Unity",
         "C#",
         "Computer Engineering",
-        "Mobile Gaming"
+        "Mobile Gaming",
+        "Android",
+        "Apk",
+        "Arcore",
+        "Arcore Unity",
+        "Augmented Reality",
+        "Computer Graphics",
+        "Computer Graphics Project",
+        "Computer Science",
+        "Csharp",
+        "Engineering",
+        "Game",
+        "Unity3d",
+        "University Of Mumbai",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "Semester IV",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
     ]
 }

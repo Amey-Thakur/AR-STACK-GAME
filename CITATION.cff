@@ -10,3 +10,7 @@ title: "AR-STACK-GAME"
 version: 1.0.0
 date-released: 2020-08-12
 url: "https://github.com/Amey-Thakur/AR-STACK-GAME"
+identifiers:
+  - type: other
+    value: "2022-02-06"
+    description: "Date this repository was created on GitHub."

@@ -1,0 +1,33 @@
+# AR Stack Builder Game
+
+> An augmented reality stack-builder game for Android developed using
+> Google's ARCore, Unity, and C#.
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Hasan Rizvi
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Second Year, Semester IV
+Licence: CC BY 4.0, attribution required
+Repository created: 6 February 2022
+Work dated: 12 August 2020
+
+## What is in this repository
+
+- Source Code, 4 files
+- docs, 1 file
+- AR-Stack-Game.apk
+- ARStackGame.unitypackage
+
+## Subject terms
+
+android, apk, arcore, arcore-unity, augmented-reality,
+computer-engineering, computer-graphics, computer-graphics-project,
+computer-science, csharp, engineering, game, unity, unity3d,
+university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/AR-STACK-GAME
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
